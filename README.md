@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript
+- 🔭 I’m currently working on JavaScript, Python
 - 📫 How to reach me: desaursushant@gmail.com
 
 <!--
